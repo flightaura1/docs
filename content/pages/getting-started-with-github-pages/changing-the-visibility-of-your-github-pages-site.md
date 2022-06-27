@@ -9,7 +9,7 @@ redirect_from:
 shortTitle: Change visibility of site
 ---
 
-## About access control for {% data variables.product.prodname_pages %} sites
+## About access control for {% data .prodname_pages %} sites
 
 With access control for {% data variables.product.prodname_pages %}, you can restrict access to your project site by publishing the site privately. A privately published site can only be accessed by people with read access to the repository the site is published from. You can use privately published sites to share your internal documentation or knowledge base with members of your enterprise. 
 
